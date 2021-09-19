@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShubhamNair
 - 👀 I’m interested in ...Programming and coding.
-- 🌱 I’m currently learning ...Java and DSA.
+- 🌱 I’m currently learning ...Python.
 - 💞️ I’m looking to collaborate on ...projects and communities.
 - 📫 How to reach me ...
 
